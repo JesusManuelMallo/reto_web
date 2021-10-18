@@ -4,6 +4,6 @@
 
 <br/>
 <h3>I needed to read again the students portal,  old LABS and Google. However didn't overcomed the challenge due to do a lack of time during the bootcamp for personal reasons.
-I'm re-doing Ironhack's lessons from the student's portal the following weeks to achieve the missing parts I couldn't acknowledge to become soon even a tungstene or "<a href="https://en.wikipedia.org/wiki/Molybdenum">Molybdenum</a>Hacker"<br/>
+I'm re-doing Ironhack's lessons from the student's portal the following weeks to achieve the missing parts I couldn't acknowledge to become soon even a <a href="https://tampasteel.com/what-are-the-strongest-metals/"> tungstene</a> or a "<a href="https://en.wikipedia.org/wiki/Molybdenum">Molybdenum</a>Hacker"<br/>
 
 
